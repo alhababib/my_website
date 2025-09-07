@@ -1,4 +1,4 @@
 function sendEmail() {
-  const adminEmail = "admin@example.com"; // ÛíøÑ ÇáÅíãíá åäÇ
-  window.location.href = `mailto:${adminEmail}?subject=ÑÓÇáÉ ãä ÒÇÆÑ ÇáãæŞÚ`;
+  const adminEmail = "mohammed@gmail.com";
+  window.location.href = `mailto:${adminEmail}?subject=Ø±Ø³Ø§Ù„Ø© Ù…Ù† Ø²Ø§Ø¦Ø± Ø§Ù„Ù…ÙˆÙ‚Ø¹`;
 }
